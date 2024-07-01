@@ -15,6 +15,7 @@ const App = () => {
       <section id="Homepage">
         <Navbar />
         <Hero />
+        https://www.coding2go.com/
       </section>
       <section id="Services">
         <Parallax type="services" />
